@@ -1,0 +1,4 @@
+PostGres.info.json
+DatabaseInitialization/data/*
+node_modules/*
+.DS_Store

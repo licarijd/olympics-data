@@ -2,3 +2,5 @@ PostGres.info.json
 DatabaseInitialization/data/*
 node_modules/*
 .DS_Store
+out.js
+DatabaseInitialization/out.js

@@ -1,6 +1,6 @@
 PostGres.info.json
-DatabaseInitialization/data/*
+DatabaseInitialization/*
 node_modules/*
 .DS_Store
 out.js
-DatabaseInitialization/out.js
+server/repositories/ca-cert/ca-certificate.crt
